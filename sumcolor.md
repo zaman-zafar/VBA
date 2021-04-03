@@ -1,6 +1,6 @@
 
 
-
+<pre>
 Function SumByColor(CellColor As Range, SumRange As Range)
 	Application.Volatile
 	Dim ICol As Integer
